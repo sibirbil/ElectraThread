@@ -4,9 +4,6 @@
 
 https://github.com/sibirbil/ElectraThread
 
-[![DOI](https://zenodo.org/badge/301932915.svg)](https://zenodo.org/badge/latestdoi/301932915)
-
-
 ## R Code
 
 If you run the accompanying R code, you will produce the following two figures:
